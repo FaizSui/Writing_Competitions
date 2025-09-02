@@ -17,9 +17,9 @@ Each competition entry includes details, links, writeups, and certificates (wher
 * **Certificate / Recognition:** [Certificate\_2023\_GoldKey\_Faizaan\_Syed.pdf](./scholastic/Certificate_2023_GoldKey_Faizaan_Syed.pdf)
 * **Notes:** Awarded a **Gold Key** recognition.
 * **Reflections & Outcomes** :
- *
- *
- *
+  * Earned an award
+  * Learned more about competetive writing
+  * Improved my narrative voice
 
 ---
 
